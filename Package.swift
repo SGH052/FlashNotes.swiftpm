@@ -9,8 +9,8 @@ let package = Package(
     ],
     targets: [
         .executableTarget(
-            name: "FlashNotes",
-            path: "Sources"
+            name: "AppModule",
+            path: "."
         )
     ]
 )
